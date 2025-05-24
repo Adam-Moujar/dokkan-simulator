@@ -1,6 +1,12 @@
 [package]
 name = "dokkan-simulator"
 version = "0.1.0"
+description = "A text based simulation of the game Dragon Ball Z: Dokkan Battle"
+repository = "https://github.com/Adam-Moujar/dokkan-simulator"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["dragon ball", "simulation", "simulator", "game"]
+categories = ["game", "simulation"]
 edition = "2024"
 
 [dependencies]

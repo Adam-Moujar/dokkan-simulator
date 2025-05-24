@@ -5,9 +5,3 @@ version = 4
 [[package]]
 name = "dokkan-simulator"
 version = "0.1.0"
-description = "A simulator for the game dragon ball z dokkan battle"
-repository = "https://github.com/Adam-Moujar/dokkan-simulator"
-readme = "README.md"
-license = "MIT OR Apache-2.0"
-keywords = ["dokkan", "simulator"]
-categories = ["games", "simulation"]
